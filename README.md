@@ -2,4 +2,4 @@
 
 Проектная работа 5-го спринта
 
-Ссылка на репозиторий: https://dronian.github.io/zakrivayuschiy-teg-ad/
+Ссылка на репозиторий: https://github.com/Dronian/zakrivayuschiy-teg-ad.git
