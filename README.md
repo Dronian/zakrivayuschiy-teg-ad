@@ -1,5 +1,5 @@
-# Закрывающий тег. Финал
+# Проектная работа «Закрывающий тег. Финал»
 
 Проектная работа 5-го спринта
 
-Ссылка на проект: https://dronian.github.io/zakrivayuschiy-teg-ad/
+Ссылка на репозиторий: https://dronian.github.io/zakrivayuschiy-teg-ad/
